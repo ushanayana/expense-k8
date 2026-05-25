@@ -152,4 +152,4 @@ spec:
   ports: 
   - protocol: TCP
     port: 80 #service-port
-    targetPort: 80 #target-por
+    targetPort: 8080 #target-por
