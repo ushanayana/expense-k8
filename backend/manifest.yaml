@@ -35,7 +35,7 @@ spec:
         image: ushanayana/backend:v1.0
         envFrom:
         - configMapRef:
-          name: backend 
+            name: backend 
 
 
 apiVersion: v1
