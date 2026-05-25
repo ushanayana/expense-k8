@@ -33,7 +33,7 @@ kind: Service
 metadata: 
   name: mysql 
   namespace: expense
-spec:
+spec: 
   selector:
     component: mysql 
     project: expense 
